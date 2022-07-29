@@ -1,0 +1,117 @@
+{
+  "contractName": "AdminRegistry",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.15+commit.e14f2714\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/AdminRegistry.sol\":\"AdminRegistry\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/AdminRegistry.sol\":{\"keccak256\":\"0xfd26d22e6dcd367bce5f46caeb6738d304e4a6b4bf0a406f867b333843faf014\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e61b9af140716d0a5b4dda555c921b2ede976fd051f18b9ea7842bdec6ec46eb\",\"dweb:/ipfs/QmR766PZuWxP99NBPDkxwMG1skTPdb9bLBVfbLwteSch73\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122038e65dcb1f42a0338da6856f8f9b375c797b7b632f74f03e5963f444985b05d564736f6c634300080f0033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122038e65dcb1f42a0338da6856f8f9b375c797b7b632f74f03e5963f444985b05d564736f6c634300080f0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "95:28:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "95:28:0:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\r\npragma solidity ^0.8;\r\n\r\n// import \"./MultiSigWallet.sol\";\r\n\r\ncontract AdminRegistry{\r\n\r\n}",
+  "sourcePath": "C:\\Users\\ojasm\\Documents\\Blockchain\\Internshala\\hashstack\\contracts\\AdminRegistry.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/AdminRegistry.sol",
+    "exportedSymbols": {
+      "AdminRegistry": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:21:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "AdminRegistry",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "AdminRegistry",
+        "nameLocation": "104:13:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "95:28:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:90:0"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/AdminRegistry.sol",
+    "exportedSymbols": {
+      "AdminRegistry": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:21:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "AdminRegistry",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "AdminRegistry",
+        "nameLocation": "104:13:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "95:28:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:90:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.15+commit.e14f2714.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.3",
+  "updatedAt": "2022-07-29T18:08:05.737Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
